@@ -1,0 +1,19 @@
+# Directories
+node_modules/**
+
+# Files
+.editorconfig
+.eslintignore
+.eslintrc
+.gitattributes
+.gitignore
+.npmignore
+.travis.yml
+.vimrc.local
+npm-debug.log
+README.md
+test.js
+
+# Crap
+.DS_Store
+.Thumbs.db

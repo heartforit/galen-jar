@@ -1,0 +1,9 @@
+# Directories
+node_modules/**
+
+# Files
+npm-debug.log
+
+# Crap
+.DS_Store
+.Thumbs.db

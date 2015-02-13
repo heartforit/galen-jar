@@ -1,0 +1,14 @@
+" Directories
+set wildignore+=*/.git/**
+set wildignore+=*/node_modules/**
+
+" Files
+set wildignore+=*npm-debug.log
+set wildignore+=*phantomjsdriver.log
+
+" Crap
+set wildignore+=*.DS_Store
+set wildignore+=*.Thumbs.db
+
+" Nerdtree specific ignore
+let NERDTreeIgnore += ['^.git$', '^node_modules$', '^npm-debug.log$', '^phantomjsdriver.log']

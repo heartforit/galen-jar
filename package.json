@@ -1,0 +1,27 @@
+{
+  "name": "galen-jar",
+  "description": "The raw `.jar` file for the galenframework",
+  "version": "1.5.3",
+  "homepage": "http://galenframework.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/galenframework/galen.git"
+  },
+  "license": "Apache 2.0",
+  "main": "index.js",
+  "keywords": [
+    "galen",
+    "galenframework",
+    "galen-jar"
+  ],
+  "author": "James Whitney <james@whitney.io>",
+  "contributors": [],
+  "bugs": {
+    "url": "https://github.com/galenframework/galen/issues"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
