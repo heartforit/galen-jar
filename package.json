@@ -1,7 +1,7 @@
 {
   "name": "galen-jar",
   "description": "The raw `.jar` file for the galenframework",
-  "version": "1.5.3-alpha2",
+  "version": "1.6.3",
   "homepage": "http://galenframework.com",
   "repository": {
     "type": "git",
